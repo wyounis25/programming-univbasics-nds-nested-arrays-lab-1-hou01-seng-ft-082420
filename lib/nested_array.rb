@@ -43,7 +43,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  produce_array[1][1]
+  matrix[1][1]
 end
 
  
